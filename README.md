@@ -3,6 +3,9 @@ XXL-JOB is a distributed task scheduling platform with the core design goals of 
 
 There is something wrong in XXL_JOB,because someone use WEAKEN keywords,THIS CAUSE SERVER NOT SAFE ANYMORE.
 
+![image](https://github.com/Despacito01/XXL_JOB/blob/main/result1.png?raw=true)
+
+
 In order to use it rapidly,you should know its parameters:
 
 It's simple, you only need to know three parameters:
