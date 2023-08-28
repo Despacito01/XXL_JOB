@@ -1,7 +1,9 @@
 # XXL_JOB
 XXL-JOB is a distributed task scheduling platform with the core design goals of rapid development, simple learning, lightweight, and easy scalability. Now open source code and connected to multiple companies' online product lines, ready to use out of the box.
+![image](https://github.com/Despacito01/XXL_JOB/blob/main/undergoing2.png?raw=true)
 
 There is something wrong in XXL_JOB,because someone use WEAKEN keywords,THIS CAUSE SERVER NOT SAFE ANYMORE.
+![image](https://github.com/Despacito01/XXL_JOB/blob/main/undergoing.png?raw=true)
 
 ![image](https://github.com/Despacito01/XXL_JOB/blob/main/result1.png?raw=true)
 
