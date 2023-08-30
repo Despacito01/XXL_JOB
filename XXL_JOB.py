@@ -16,7 +16,7 @@ def banner():
 |__/  |__/|__/  |__/|________//$$$$$$\______/  \______/ |_______/ 
                              |______/                             
                                        tag:  XXL_JOB                                       
-                                       @version: 1.0.0   @author: Despacitio096           
+                                       @version: 1.0.0   @author: Despacito096           
 """
     print(test)
 #写一个未授权访问的，url拼接路径检查返回码是否200，和这个差不多
